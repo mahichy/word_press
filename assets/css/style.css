@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Bhineka';
+  src: url('../fonts/Bhineka.woff2') format('woff2'),
+      url('../fonts/Bhineka.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Bhineka', cursive;
+  font-weight: normal;
+}
+
+
+
+.main-heading {
+  color: red;
+  font-size: 50px;
+  border: 4px solid green;
+  text-align: center;
+}
+
+.other-heading {
+  color: green;
+  font-size: 60px;
+  font-family: 'Times New Roman', Times, serif;
+}
